@@ -76,6 +76,10 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 ![logic diagram](https://github.com/user-attachments/assets/b1bd510f-29d0-4464-8af6-ff0016e1d603)
 
 
+
+
+
+
 **RTL**
 ![waveform](https://github.com/user-attachments/assets/b3a7c767-f4ba-46bb-8361-09a99b9b575f)
 
